@@ -1,5 +1,5 @@
 language: go
-script: go get gopkg.in/fsnotify.v1 && go test
+script: go get github.com/howeyc/fsnotify && go test
 notifications:
   email: false
 
