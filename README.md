@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/noypi/filemon.svg?branch=master)](https://travis-ci.org/noypi/filemon)
+
 ###Example:
 ```go
 // create a new watcher
