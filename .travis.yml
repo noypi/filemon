@@ -1,0 +1,4 @@
+language: go
+script: go get code.google.com/p/go.exp/fsnotify && go test
+notifications:
+  email: false
