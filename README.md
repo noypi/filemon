@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/noypi/filemon.svg?branch=master)](https://travis-ci.org/noypi/filemon)
+[![GoDoc](https://godoc.org/github.com/noypi/filemon?status.png)](http://godoc.org/github.com/noypi/filemon)
 
 ###Example:
 ```go
