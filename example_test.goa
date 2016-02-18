@@ -1,5 +1,9 @@
 package filemon_test
 
+import (
+	. "github.com/noypi/filemon"
+)
+
 func ExampleWatcher() {
 
 	// create a new watcher
