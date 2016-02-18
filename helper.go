@@ -1,7 +1,7 @@
 package filemon
 
 import (
-	"gopkg.in/fsnotify.v1"
+	"github.com/howeyc/fsnotify"
 	"fmt"
 	"os"
 	"path/filepath"
