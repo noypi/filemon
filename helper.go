@@ -1,7 +1,7 @@
 package filemon
 
 import (
-	"code.google.com/p/go.exp/fsnotify"
+	"gopkg.in/fsnotify.v1"
 	"fmt"
 	"os"
 	"path/filepath"
