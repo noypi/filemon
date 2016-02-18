@@ -1,7 +1,8 @@
 package filemon_test
 
 import (
-	. "github.com/noypi/filemon"
+	"github.com/noypi/filemon"
+	"fmt"
 )
 
 func ExampleWatcher() {
